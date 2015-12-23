@@ -1,0 +1,28 @@
+name: evanreecewalker
+favicon: null
+layout_spectrum: 0.4685666519217193
+typography_spectrum: 0.042805945267900825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.23155498784035444
+  lightness: 0.16390446666628122
+  saturation: 0.9115735511295497
+  rhythmicContrast: 0.9826367751229554
+purpose: []
