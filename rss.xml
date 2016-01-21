@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[evanreecewalker]]></title>
+        <description><![CDATA[evanreecewalker]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jan 2016 11:37:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>London based Freelance Creative Director with experience developing design solutions across a broad range of media, working with brands and companies of all sizes in both client facing roles and as part of a creative team. I have a proven track record of developing projects from inception through to final delivery, ensuring all work is effective, appropriate and delivered with agreed timescales and budgets.</p>]]></description>
+            <link>undefined01cd0e09-3579-4143-8ce3-34b0228c443c/index.html</link>
+            <guid isPermaLink="false">01cd0e09-3579-4143-8ce3-34b0228c443c</guid>
+            <pubDate>Thu, 21 Jan 2016 11:37:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
